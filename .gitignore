@@ -1,0 +1,19 @@
+# Environment variables
+.env
+.env.*
+.env.local
+.env.production
+
+# Virtual environment (uv)
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Model weights (nếu nặng)
+*.pt
+*.pth
+*.onnx
